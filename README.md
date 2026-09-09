@@ -1,4 +1,4 @@
-# Sobha_-Realty_-Delay_-Analysis-
+# Sobha-Realty-Delay-Analysis-
 SQL-based analysis of 46,000+ real estate transactions to identify patterns in delayed sales and revenue exposure across projects, property types, and years.
 ##Project Summary
 This project analyses over 46,000 real estate transactions from Sobha Realty, Dubai, between 2018 and 2023 to identify patterns in delayed transactions and quantify the associated revenue exposure using SQL. The analysis explores how delays vary across projects, property types, transaction years, and buyer nationalities, with the aim of identifying areas that may require greater management attention.
